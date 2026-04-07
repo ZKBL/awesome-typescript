@@ -239,6 +239,7 @@
 
 ## TypeScript Starters/Boilerplates
 
+- [Marve10s - better-fullstack](https://github.com/Marve10s/Better-Fullstack) - End-to-end fullstack scaffolding across TypeScript, Rust, Python & Go — code ready for you or your AI agent.
 - [Kriasoft - React Starter Kit](https://github.com/kriasoft/react-starter-kit)
 - [Microsoft - TypeScript-React-Starter](https://github.com/Microsoft/TypeScript-React-Starter)
 - [Microsoft - TypeScript-Vue-Starter](https://github.com/Microsoft/TypeScript-Vue-Starter)
